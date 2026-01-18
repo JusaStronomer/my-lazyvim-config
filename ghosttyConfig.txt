@@ -1,0 +1,8 @@
+# 緋色巫女風のターミナル設定, courtesy of Gemini 3 
+background-opacity = 0.65
+# A deeper, more "ink-like" purple-black to let the scarlet pop
+background = 1a101f
+# A softer, "Silk-white" foreground instead of bright gold
+foreground = dcdccc
+# Cursor color in Hiiro (Scarlet)
+cursor-color = d74431
