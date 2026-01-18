@@ -2,8 +2,12 @@
 
 ## About
 
-This configuration uses [LazyVim](https://github.com/LazyVim/LazyVim) as a template. Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
-It also uses the [Solarized Osaka Theme](https://github.com/craftzdog/solarized-osaka.nvim).
+### **Terminal:** [Ghostty](https://ghostty.org/docs)
+### **Distribution:** [LazyVim](https://github.com/LazyVim/LazyVim)
+### **Base Theme:** [Solarized Osaka Theme](https://github.com/craftzdog/solarized-osaka.nvim).
+### **Font:** [AskaydiaCove Nerd Font](https://www.nerdfonts.com/font-downloads)
+
+![Screenshot](./screenshots/hiiro-miko-lazyvim.png)
 
 ## Installation
 ### Clearing Neovim data
@@ -27,7 +31,6 @@ sudo apt install neovim -y
 ### Getting the LazyVim configuration
 For a fresh configuration, go to [LazyVim](https://github.com/LazyVim/LazyVim).
 For this configuration, clone this repo.
-
 
 ### Installing Ghostty
 Check [Ghostty](https://ghostty.org/docs).
