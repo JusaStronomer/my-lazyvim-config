@@ -6,3 +6,4 @@ background = 1a101f
 foreground = dcdccc
 # Cursor color in Hiiro (Scarlet)
 cursor-color = d74431
+# bashrc color: export PS1="\\[\\e[1;31m\\]\\u@\\h\\[\\e[0m\\]:\\[\\e[1;33m\\]\\w\\[\\e[0m\\]\\$ "
